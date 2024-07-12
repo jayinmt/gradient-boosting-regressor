@@ -20,7 +20,7 @@ This project implements a simple Gradient Boosting Regressor from scratch using 
 1. Clone this repository:
    ```
    git clone https://github.com/jaydxyz/gradient-boosting-regressor.git
-   cd gradient-boosting-project
+   cd gradient-boosting-regressor
    ```
 
 2. Install the required packages:
